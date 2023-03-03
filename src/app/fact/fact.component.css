@@ -1,0 +1,21 @@
+.fact-button{
+    background-color: #774936;
+    border: 0px solid #774936;
+    padding: 10px;
+    border-radius: 10px;
+    color: #E3C567;
+}
+
+.fact-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.fact{
+    color: #441C0A;
+    font-weight: 900;
+}

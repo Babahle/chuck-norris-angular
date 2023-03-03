@@ -1,0 +1,7 @@
+<div class="fact-container">
+    <p *ngIf="renderFact" class="fact">
+        <i>"{{ fact }}"</i>
+    </p>
+
+    <button (click)="getFact()" class="fact-button">Get Fact!</button>
+</div>
